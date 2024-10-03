@@ -1,0 +1,19 @@
+Som kunde, ønsker jeg at kunne se pizzaer i menuen inkl. priser, så jeg let kan vælge, hvilke pizzaer og produkter jeg gerne vil bestille.
+
+Som kunde, ønsker jeg at kunne bestille min pizza online, så jeg ikke skal stå og vente ned i pizzeriaet.
+
+Som kunde, ønsker jeg at kunne vælge ekstra toppings til (eller fjerne en bestemt topping), så jeg kan få min pizza præcis, som jeg kan lide den.
+
+Som kunde, ønsker jeg at få bekræftet min bestilling, så jeg ved den er gået igennem og bliver forberedt.
+
+Som kunde, ønsker jeg at kunne vælge take-away, så jeg ikke behøver at vente eller spise i restauranten.
+
+Som produktejer, ønsker jeg at kunne se alle ordrer i systemet, så jeg kan styrer pizzeriaets drift effektivt.
+
+Som produktejer, ønsker jeg at have en hjemmeside med et overskueligt interface, med det formål at gøre forhandlinger lettere for vores kunder.
+
+Som produktejer, ønsker jeg at opsætte månedens produkt, samt understejer populære produkter, for at kunder kan have muligheden til at prøve noget nyt eller re-experience en favorit.
+
+Som produktejer, ønsker jeg at etablere en kundeklub, så vores kunder kan få den bedste oplevelse og rabatter for vores produkter.
+
+Som produktejer, ønsker jeg at jeg se statistik over bestilte produkter, for at se, hvilke produkter er populære og hvilke der skal udskiftes.
