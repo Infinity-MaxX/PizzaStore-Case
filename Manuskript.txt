@@ -2,7 +2,7 @@ Jeg er her for at præsentere min version af Pizza Store casen.
 
 Først, så har vi domæne modellen, et diagram der repræsenterer virkeligheden og modellerer vores opfattelse af, hvordan vores problem ser ud og hvad den skal indeholde.
 
-Her har jeg lavede tre konceptuelle klasser - Pizza, Ordre og Kunde - hver med deres egne egenskaber, eller attributer som vi også kalde dem for. Her i den konceptuelle pizza klasse kan vi se to egenskaber, eller attributer, navn og pris. For den konceptuelle ordre klasse har vi attributerne ordre nummer, kunde information, pizza information, levering og total prisen. Den sidste konceptuelle klasse, kunde, indeholder attributerne navnet på kunden, kundens e-mail samt kundens telefon nummer.
+Her har jeg lavede tre konceptuelle klasser - Pizza, Ordre og Kunde - hver med deres egne egenskaber, eller attributer som vi også kalde dem for. Her i den konceptuelle pizza klasse kan vi se to egenskaber, eller attributer, navn og pris. For den konceptuelle ordre klasse har vi attributterne ordre nummer, kunde information, pizza information, levering og total prisen. Den sidste konceptuelle klasse, kunde, indeholder attributterne navnet på kunden, kundens e-mail samt kundens telefon nummer.
 
 Pizza og Kunde har associationer til Ordre, og Ordre har associationer til Pizza og Kunde. Hver association har en 1:1 multiplicetet til hinanden.
 
